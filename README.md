@@ -35,8 +35,8 @@ Visit our [Documentation Site](https://docs.cazuapp.dev/) for detailed informati
 
 To contribute to the Admin App, ensure your environment is ready with the following:
 
-- **CazuApp API server** - The backend engine for the Admin App.
-- **A modern web development framework**
+- **CazuApp API server** - Backend support for the Driver App.
+- **Flutter** - The UI toolkit for crafting natively compiled applications.
 
 See our [Setup Guide](https://docs.cazuapp.dev/api/core_apps/admin/install) for detailed instructions.
 
