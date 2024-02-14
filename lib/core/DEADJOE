@@ -1,0 +1,36 @@
+
+*** These modified files were found in JOE when it aborted on Mon Jan 29 22:45:47 2024
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+bcry
+getb
+GetB
+orders/get
+OrderGet
+OrderGet
+Add
+isCanc
+products
+home
+search
+products/sear
+
+*** File '(Unnamed)'
+add_collection.md
+list_collections.md
+dual.md
+handlers/orders.js
+.env
+.counters
+.counters
+routes/collections.js
+routes/managed.js
+.protocol
+routes.dart
+
+*** File '* Startup Log *'
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc
