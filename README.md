@@ -18,7 +18,7 @@
 </table>
 
 
-# Welcome to CazuApp Admin App
+### Welcome to CazuApp Admin App
 
 **CazuApp Admin App** is a key component of the CazuApp ecosystem, designed to empower administrators with tools for effective management and oversight of the delivery operations. This app includes features for monitoring orders, managing drivers, analyzing performance, and configuring system settings.
 
@@ -31,7 +31,7 @@ Discover our [GitHub repositories](https://github.com/cazuapp) for more!
 
 Visit our [Documentation Site](https://docs.cazuapp.dev/) for detailed information.
 
-## Getting Started with the Admin App
+### Getting Started with the Admin App
 
 To contribute to the Admin App, ensure your environment is ready with the following:
 
