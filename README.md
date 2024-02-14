@@ -5,8 +5,6 @@
 
 ### What does your admin app look like?
 
-| ![](https://www.cazuapp.dev/assets/images/all/driver_stats.png)  | ![](![](https://www.cazuapp.dev/assets/images/all/store_info.png)    
-
 
 <table>
     <tr style="border: 0px;">
