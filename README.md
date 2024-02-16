@@ -2,10 +2,6 @@
   <img src="https://www.cazuapp.dev/assets/images/logo.png" alt="CazuApp">
 </p>
 
-
-### What does your admin app look like?
-
-
 <table>
     <tr style="border: 0px;">
     <td align="center" style="border:0px;">
